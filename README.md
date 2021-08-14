@@ -56,7 +56,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -74,4 +73,3 @@ Linux                    0 secs              ███████████�
 
 ```
 <!--END_SECTION:waka-->
-</p>
