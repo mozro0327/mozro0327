@@ -57,9 +57,4 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-```text
-Week: 07 August, 2021 - 13 August, 2021
-
-
-```
 <!--END_SECTION:waka-->
