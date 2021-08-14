@@ -73,12 +73,5 @@ Vim                      0 secs              ███████████�
 Linux                    0 secs              █████████████████████████   100.0%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/mozro0327/mozro0327/main/charts/bar_graph.png) 
-
-
- Last Updated on 14/08/2021
 <!--END_SECTION:waka-->
-  </p>
+</p>
