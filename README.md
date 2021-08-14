@@ -55,3 +55,17 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/commits/monthly/mozro0327?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+<!-- waka readme - https://github.com/athul/waka-readme -->
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Week: 07 August, 2021 - 13 August, 2021
+
+PHP        38 hrs 16 mins  ███████████████████▒░░░░░   77.65 % 
+JSON       4 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Other      2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Markdown   2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+YAML       42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+```
+<!--END_SECTION:waka-->
