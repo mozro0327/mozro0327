@@ -48,9 +48,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/mozro0327?tab=repositories">
     <img src="https://badges.pufler.dev/repos/mozro0327?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/mozro0327">
-    <img src="https://badges.pufler.dev/gists/mozro0327?style=flat-square&color=black&logo=github">
-  </a>
   <a href="https://github.com/mozro0327">
     <img src="https://badges.pufler.dev/commits/monthly/mozro0327?style=flat-square&color=black&logo=github">
   </a>
