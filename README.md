@@ -58,17 +58,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    1 min               ██████████████████░░░░░░░   74.26% 
-JavaScript               0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.74%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
