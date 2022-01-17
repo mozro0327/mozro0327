@@ -58,16 +58,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      18 mins             ███████████████████████░░   92.06% 
+C                        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   7.94%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             ███████████████████████░░   92.06% 
+CLion                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   7.94%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
