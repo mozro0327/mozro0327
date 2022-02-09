@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -70,5 +69,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/02/2022 20:18:30 UTC
+ Last Updated on 09/02/2022 20:18:46 UTC
 <!--END_SECTION:waka-->
