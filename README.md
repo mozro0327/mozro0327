@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C168%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,5 +76,5 @@ Windows                  5 hrs 7 mins        ████░░░░░░░�
 ```
 
 
- Last Updated on 17/02/2023 20:18:11 UTC
+ Last Updated on 18/02/2023 20:16:21 UTC
 <!--END_SECTION:waka-->
