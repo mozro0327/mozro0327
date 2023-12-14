@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C199%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C205%20hrs%207%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,5 +47,5 @@ WSL                      20 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/12/2023 20:15:56 UTC
+ Last Updated on 14/12/2023 20:16:09 UTC
 <!--END_SECTION:waka-->
