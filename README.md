@@ -31,16 +31,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      51 mins             ███████████████░░░░░░░░░░   58.82 % 
-Python                   36 mins             ██████████░░░░░░░░░░░░░░░   41.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/10/2024 20:04:59 UTC
+ Last Updated on 07/10/2024 20:05:40 UTC
 <!--END_SECTION:waka-->
