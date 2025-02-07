@@ -31,17 +31,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Rust                     20 mins             █████████████████████████   99.75 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/02/2025 20:05:31 UTC
+ Last Updated on 07/02/2025 20:05:34 UTC
 <!--END_SECTION:waka-->
