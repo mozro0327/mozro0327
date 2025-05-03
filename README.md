@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C418%20hrs%2017%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -44,5 +46,5 @@ Linux                    1 hr 46 mins        ███████████�
 ```
 
 
- Last Updated on 02/05/2025 20:22:38 UTC
+ Last Updated on 03/05/2025 20:20:29 UTC
 <!--END_SECTION:waka-->
