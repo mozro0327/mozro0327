@@ -31,15 +31,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 10 mins        █████████████████████████   99.36 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/06/2025 20:05:41 UTC
+ Last Updated on 09/06/2025 20:06:22 UTC
 <!--END_SECTION:waka-->
