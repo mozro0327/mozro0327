@@ -25,25 +25,8 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C860%20hrs%2031%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   15 hrs 59 mins      ██████████████░░░░░░░░░░░   54.34 % 
-TypeScript               8 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-Bash                     2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-
-🔥 Editors: 
-Cursor                   29 hrs 26 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    29 hrs 26 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C866%20hrs%2054%20mins-blue)
 
 
- Last Updated on 18/09/2025 20:06:26 UTC
+ Last Updated on 19/09/2025 20:06:15 UTC
 <!--END_SECTION:waka-->
