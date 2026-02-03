@@ -25,19 +25,22 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C202%20hrs%2044%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              ███████████████░░░░░░░░░░   61.54 % 
+Python                   0 secs              ██████████░░░░░░░░░░░░░░░   38.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/02/2026 20:07:01 UTC
+ Last Updated on 03/02/2026 20:13:05 UTC
 <!--END_SECTION:waka-->
