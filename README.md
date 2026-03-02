@@ -31,17 +31,19 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      26 mins             █████████████░░░░░░░░░░░░   53.66 % 
+C++                      26 mins             █████████████░░░░░░░░░░░░   53.65 % 
 YAML                     22 mins             ████████████░░░░░░░░░░░░░   46.28 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Cursor                   49 mins             █████████████████████████   100.00 % 
+Cursor                   49 mins             █████████████████████████   99.99 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
 Linux                    49 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/03/2026 20:07:30 UTC
+ Last Updated on 02/03/2026 20:11:46 UTC
 <!--END_SECTION:waka-->
