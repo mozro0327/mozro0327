@@ -31,15 +31,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     8 mins              █████████████░░░░░░░░░░░░   53.68 % 
+YAML                     6 mins              ██████████░░░░░░░░░░░░░░░   40.48 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/2026 20:11:59 UTC
+ Last Updated on 12/03/2026 20:11:55 UTC
 <!--END_SECTION:waka-->
