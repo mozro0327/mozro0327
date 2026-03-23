@@ -31,17 +31,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   13 mins             ██████████████████░░░░░░░   73.44 % 
-Bash                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/03/2026 20:07:30 UTC
+ Last Updated on 23/03/2026 20:15:58 UTC
 <!--END_SECTION:waka-->
