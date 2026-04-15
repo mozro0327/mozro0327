@@ -25,23 +25,23 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C204%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C204%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-YAML                     42 mins             ██████████████████████░░░   86.88 % 
-C++                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+YAML                     45 mins             ██████████████████████░░░   87.60 % 
+C++                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Cursor                   49 mins             █████████████████████████   100.00 % 
+Cursor                   52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    49 mins             █████████████████████████   100.00 % 
+Linux                    52 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 20:23:34 UTC
+ Last Updated on 15/04/2026 20:21:32 UTC
 <!--END_SECTION:waka-->
