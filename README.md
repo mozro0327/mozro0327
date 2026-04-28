@@ -31,19 +31,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 2 mins         ████████████████████░░░░░   81.20 % 
-Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Bash                     5 mins              ███████████████████░░░░░░   76.84 % 
+Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-Cursor                   1 hr 17 mins        █████████████████████████   100.00 % 
+Cursor                   6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 20:28:51 UTC
+ Last Updated on 28/04/2026 20:32:51 UTC
 <!--END_SECTION:waka-->
