@@ -31,15 +31,19 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     36 mins             █████████░░░░░░░░░░░░░░░░   37.74 % 
+Python                   24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+CMake                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2026 20:31:01 UTC
+ Last Updated on 08/05/2026 20:26:19 UTC
 <!--END_SECTION:waka-->
