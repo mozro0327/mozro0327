@@ -25,25 +25,24 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C219%20hrs%2047%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.24 % 
-Python                   2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Bash                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-TOML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Docker                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+C++                      6 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.08 % 
+Bash                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Python                   1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Docker                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+TOML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 🔥 Editors: 
-Cursor                   16 hrs 23 mins      █████████████████████████   100.00 % 
+Cursor                   15 hrs 27 mins      ██████████████████████░░░   86.47 % 
+Qoder                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
 
 💻 Operating System: 
-Linux                    16 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/05/2026 20:34:41 UTC
+ Last Updated on 15/05/2026 20:29:51 UTC
 <!--END_SECTION:waka-->
