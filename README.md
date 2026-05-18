@@ -25,6 +25,24 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 17/05/2026 20:20:36 UTC
+```text
+💬 Programming Languages: 
+C++                      6 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.26 % 
+Python                   3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Bash                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Other                    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+
+🔥 Editors: 
+Cursor                   14 hrs 36 mins      █████████████████████░░░░   85.15 % 
+Qoder                    2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+
+💻 Operating System: 
+Linux                    17 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/05/2026 20:35:39 UTC
 <!--END_SECTION:waka-->
