@@ -29,20 +29,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Bash                     4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Python                   3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-YAML                     2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Docker                   2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+C++                      7 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
+Bash                     4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+YAML                     3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Docker                   2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+XML                      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 7 mins       ██████████████░░░░░░░░░░░   55.30 % 
-Qoder                    10 hrs 36 mins      ███████████░░░░░░░░░░░░░░   44.70 % 
+Cursor                   11 hrs 55 mins      █████████████░░░░░░░░░░░░   53.23 % 
+Qoder                    10 hrs 29 mins      ████████████░░░░░░░░░░░░░   46.77 % 
 
 💻 Operating System: 
-Linux                    23 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/05/2026 20:36:13 UTC
+ Last Updated on 23/05/2026 20:21:19 UTC
 <!--END_SECTION:waka-->
