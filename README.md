@@ -25,24 +25,8 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      7 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Bash                     4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-YAML                     3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Docker                   2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-XML                      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-
-🔥 Editors: 
-Cursor                   11 hrs 55 mins      █████████████░░░░░░░░░░░░   53.23 % 
-Qoder                    10 hrs 29 mins      ████████████░░░░░░░░░░░░░   46.77 % 
-
-💻 Operating System: 
-Linux                    22 hrs 25 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C282%20hrs%2036%20mins-blue?style=flat)
 
 
- Last Updated on 23/05/2026 20:21:19 UTC
+ Last Updated on 24/05/2026 20:24:31 UTC
 <!--END_SECTION:waka-->
