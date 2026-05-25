@@ -27,6 +27,24 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C282%20hrs%2036%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 24/05/2026 20:24:31 UTC
+```text
+💬 Programming Languages: 
+C++                      5 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.98 % 
+Bash                     3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+YAML                     3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Docker                   2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+CMake                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+
+🔥 Editors: 
+Qoder                    10 hrs 29 mins      ███████████████░░░░░░░░░░   58.67 % 
+Cursor                   7 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.33 % 
+
+💻 Operating System: 
+Linux                    17 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/05/2026 20:34:12 UTC
 <!--END_SECTION:waka-->
