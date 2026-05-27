@@ -25,26 +25,26 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C282%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C283%20hrs%2019%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-Bash                     3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-YAML                     2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Docker                   2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-CMake                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+C++                      2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+YAML                     2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+Bash                     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Docker                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+CMake                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 🔥 Editors: 
-Qoder                    8 hrs 20 mins       ███████████████░░░░░░░░░░   59.45 % 
-Cursor                   5 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
+Cursor                   5 hrs 41 mins       ████████████████░░░░░░░░░   64.15 % 
+Qoder                    3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.85 % 
 
 💻 Operating System: 
-Linux                    14 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 20:44:11 UTC
+ Last Updated on 27/05/2026 20:47:06 UTC
 <!--END_SECTION:waka-->
