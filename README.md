@@ -27,19 +27,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C283%20hrs%2019%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-YAML                     36 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/06/2026 21:08:42 UTC
+ Last Updated on 03/06/2026 21:09:13 UTC
 <!--END_SECTION:waka-->
