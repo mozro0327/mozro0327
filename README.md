@@ -31,19 +31,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Bash                     51 mins             ████████████████░░░░░░░░░   64.33 % 
-YAML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-C++                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/06/2026 21:04:28 UTC
+ Last Updated on 16/06/2026 21:05:55 UTC
 <!--END_SECTION:waka-->
