@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2026 20:43:30 UTC
+ Last Updated on 26/06/2026 20:38:11 UTC
 <!--END_SECTION:waka-->
