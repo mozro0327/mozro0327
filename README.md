@@ -31,15 +31,21 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   11 mins             █████████████████████████   100.00 % 
+Bash                     21 mins             ██████████████░░░░░░░░░░░   56.83 % 
+Python                   11 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+Cursor                   27 mins             ██████████████████░░░░░░░   70.99 % 
+VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Linux                    27 mins             ██████████████████░░░░░░░   70.99 % 
+Windows                  11 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
 ```
 
 
- Last Updated on 29/06/2026 20:40:17 UTC
+ Last Updated on 30/06/2026 20:42:40 UTC
 <!--END_SECTION:waka-->
