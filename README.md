@@ -31,21 +31,21 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Bash                     21 mins             ██████████████░░░░░░░░░░░   56.83 % 
-Python                   11 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Bash                     1 hr 29 mins        ███████████░░░░░░░░░░░░░░   42.67 % 
+XML                      52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+YAML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Docker                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🔥 Editors: 
-Cursor                   27 mins             ██████████████████░░░░░░░   70.99 % 
-VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+Cursor                   3 hrs 19 mins       ████████████████████████░   94.72 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 💻 Operating System: 
-Linux                    27 mins             ██████████████████░░░░░░░   70.99 % 
-Windows                  11 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+Linux                    3 hrs 19 mins       ████████████████████████░   94.72 % 
+Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 
 
- Last Updated on 01/07/2026 20:38:49 UTC
+ Last Updated on 02/07/2026 20:31:46 UTC
 <!--END_SECTION:waka-->
