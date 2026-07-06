@@ -31,19 +31,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Bash                     3 hrs 28 mins       █████████████░░░░░░░░░░░░   53.93 % 
-XML                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-YAML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Docker                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-INI                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Bash                     4 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.35 % 
+XML                      2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+INI                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+YAML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 27 mins       █████████████████████████   100.00 % 
+Cursor                   8 hrs 29 mins       █████████████████████░░░░   83.33 % 
+Codex CLI                1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 
 💻 Operating System: 
-Linux                    6 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/07/2026 21:02:57 UTC
+ Last Updated on 06/07/2026 21:37:47 UTC
 <!--END_SECTION:waka-->
