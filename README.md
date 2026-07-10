@@ -25,26 +25,26 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C300%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C300%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Bash                     4 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.64 % 
-XML                      2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-INI                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Bash                     2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.58 % 
+XML                      2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.54 % 
+INI                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 27 mins       █████████████████████░░░░   83.27 % 
-Codex CLI                1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Cursor                   5 hrs 8 mins        ███████████████████░░░░░░   75.18 % 
+Codex CLI                1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
 
 💻 Operating System: 
-Linux                    10 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2026 21:24:31 UTC
+ Last Updated on 10/07/2026 21:06:59 UTC
 <!--END_SECTION:waka-->
