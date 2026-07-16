@@ -31,19 +31,19 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Bash                     1 hr 3 mins         ██████████████░░░░░░░░░░░   54.09 % 
-Python                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-YAML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-INI                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Bash                     21 mins             █████████████░░░░░░░░░░░░   51.04 % 
+Python                   14 mins             █████████░░░░░░░░░░░░░░░░   35.87 % 
+C++                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+CMake                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Cursor                   1 hr 56 mins        █████████████████████████   100.00 % 
+Cursor                   41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
+Linux                    41 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/07/2026 21:01:51 UTC
+ Last Updated on 16/07/2026 21:01:25 UTC
 <!--END_SECTION:waka-->
