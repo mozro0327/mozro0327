@@ -25,24 +25,25 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C300%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C302%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Bash                     5 mins              ███████████████░░░░░░░░░░   58.10 % 
-C++                      2 mins              ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-CMake                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Bash                     1 hr 7 mins         ████████████████░░░░░░░░░   63.22 % 
+INI                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Cursor                   10 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2026 20:57:43 UTC
+ Last Updated on 18/07/2026 20:51:35 UTC
 <!--END_SECTION:waka-->
