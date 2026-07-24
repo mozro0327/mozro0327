@@ -25,23 +25,6 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Bash                     1 hr 1 min          ████████████████░░░░░░░░░   63.76 % 
-INI                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-
-🔥 Editors: 
-Cursor                   1 hr 36 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/07/2026 21:05:42 UTC
+ Last Updated on 24/07/2026 21:05:19 UTC
 <!--END_SECTION:waka-->
