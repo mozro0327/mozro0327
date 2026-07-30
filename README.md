@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C219%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C219%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2010%20mins-blue?style=flat)
 
@@ -33,25 +33,25 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Bash                     13 mins             ███████████████░░░░░░░░░░   58.58 % 
-XML                      6 mins              ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Bash                     13 mins             ██████████████░░░░░░░░░░░   56.52 % 
+XML                      6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-Cursor                   22 mins             █████████████████████████   100.00 % 
+Cursor                   24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+Linux                    24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (26.33%)
+⏱ AI Coding Time: 5 mins (23.72%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -67,5 +67,5 @@ Linux                    22 mins             ███████████�
 ```
 
 
- Last Updated on 29/07/2026 20:57:42 UTC
+ Last Updated on 30/07/2026 21:11:54 UTC
 <!--END_SECTION:waka-->
