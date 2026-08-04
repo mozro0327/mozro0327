@@ -33,39 +33,25 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Bash                     13 mins             ██████████████░░░░░░░░░░░   56.52 % 
-XML                      6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+YAML                     39 mins             ████████████░░░░░░░░░░░░░   46.71 % 
+Bash                     31 mins             █████████░░░░░░░░░░░░░░░░   36.84 % 
+CMake                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+ROS Interface            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Cursor                   24 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (23.72%)
-
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 27 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 02/08/2026 20:57:04 UTC
+ Last Updated on 04/08/2026 21:13:14 UTC
 <!--END_SECTION:waka-->
