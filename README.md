@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C220%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2010%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -49,5 +53,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2026 00:52:26 UTC
+ Last Updated on 07/08/2026 20:42:07 UTC
 <!--END_SECTION:waka-->
