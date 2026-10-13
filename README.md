@@ -33,13 +33,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      9 mins              █████████████░░░░░░░░░░░░   52.07 % 
+YAML                     8 mins              ███████████░░░░░░░░░░░░░░   45.27 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -49,5 +51,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/10/2026 01:52:38 UTC
+ Last Updated on 13/10/2026 23:38:13 UTC
 <!--END_SECTION:waka-->
