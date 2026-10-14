@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C227%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C227%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2027%20mins-blue?style=flat)
 
@@ -33,23 +33,39 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      9 mins              █████████████░░░░░░░░░░░░   52.07 % 
-YAML                     8 mins              ███████████░░░░░░░░░░░░░░   45.27 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+C++                      9 mins              ████████████░░░░░░░░░░░░░   46.01 % 
+YAML                     8 mins              ██████████░░░░░░░░░░░░░░░   40.00 % 
+Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-Cursor                   19 mins             █████████████████████████   100.00 % 
+Cursor                   19 mins             ██████████████████████░░░   88.36 % 
+Agent                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+Linux                    21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (6.28%)
+
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 142 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 23:38:13 UTC
+ Last Updated on 14/10/2026 23:01:34 UTC
 <!--END_SECTION:waka-->
