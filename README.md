@@ -33,39 +33,44 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      9 mins              ████████████░░░░░░░░░░░░░   46.01 % 
-YAML                     8 mins              ██████████░░░░░░░░░░░░░░░   40.00 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+C++                      48 mins             ███████████░░░░░░░░░░░░░░   45.05 % 
+YAML                     31 mins             ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Bash                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-Cursor                   19 mins             ██████████████████████░░░   88.36 % 
-Agent                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Cursor                   1 hr 43 mins        ████████████████████████░   96.78 % 
+Agent                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (6.28%)
+⏱ AI Coding Time: 39 mins (37.27%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 34,511 Input Tokens, 2,369 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.27 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
+
+Grok                     4 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 142 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 81.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 22:16:18 UTC
+ Last Updated on 19/10/2026 23:24:41 UTC
 <!--END_SECTION:waka-->
