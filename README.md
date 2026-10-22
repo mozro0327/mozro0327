@@ -33,45 +33,45 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   31.15 % 
-Bash                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Kotlin                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-C++                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+TypeScript               1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   35.40 % 
+Bash                     1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Kotlin                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+C++                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 12 mins       █████████████████████████   99.57 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Cursor Agent             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Cursor                   5 hrs 5 mins        █████████████████████████   99.64 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Cursor Agent             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    4 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 21 mins (79.46%)
+⏱ AI Coding Time: 3 hrs 59 mins (78.04%)
 
-✍️ 1,152 lines written by AI, 8 lines written by hand (99.31% AI-written)
+✍️ 1,322 lines written by AI, 8 lines written by hand (99.4% AI-written)
 
 🔤 34,511 Input Tokens, 2,369 Output Tokens
 
 💵 $0.27 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 28 AI Prompts
+🧠 14 AI Sessions, 36 AI Prompts
 
-Claude-Opus              1,570 lines         █████████████████████░░░░   85.09 % 
-Grok                     275 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Claude-Opus              1,747 lines         ██████████████████████░░░   86.40 % 
+Grok                     275 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.31% of written lines came from AI
-📝 Concise Prompter — average 192 characters per prompt
+🤖 AI-Driven — 99.4% of written lines came from AI
+📝 Concise Prompter — average 467 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.81% of changed lines were hand-edited
+🚀 High AI Trust — 0.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 23:02:51 UTC
+ Last Updated on 22/10/2026 23:01:18 UTC
 <!--END_SECTION:waka-->
