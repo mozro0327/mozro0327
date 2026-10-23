@@ -25,53 +25,53 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C231%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C232%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   35.40 % 
-Bash                     1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Kotlin                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-C++                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+TypeScript               2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+Bash                     1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Kotlin                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+C++                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 5 mins        █████████████████████████   99.64 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Cursor Agent             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Cursor                   5 hrs 43 mins       █████████████████████████   99.68 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Cursor Agent             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    5 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 59 mins (78.04%)
+⏱ AI Coding Time: 4 hrs 37 mins (80.46%)
 
-✍️ 1,322 lines written by AI, 8 lines written by hand (99.4% AI-written)
+✍️ 1,521 lines written by AI, 8 lines written by hand (99.48% AI-written)
 
 🔤 34,511 Input Tokens, 2,369 Output Tokens
 
 💵 $0.27 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 36 AI Prompts
+🧠 18 AI Sessions, 42 AI Prompts
 
-Claude-Opus              1,747 lines         ██████████████████████░░░   86.40 % 
-Grok                     275 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Claude-Opus              1,955 lines         ██████████████████████░░░   87.67 % 
+Grok                     275 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.4% of written lines came from AI
-📝 Concise Prompter — average 467 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.74% of changed lines were hand-edited
+🤖 AI-Driven — 99.48% of written lines came from AI
+📄 Detailed Prompter — average 757 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.67% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 23:01:18 UTC
+ Last Updated on 23/10/2026 22:56:32 UTC
 <!--END_SECTION:waka-->
