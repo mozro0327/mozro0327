@@ -25,50 +25,51 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C233%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C233%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ████████████████░░░░░░░░░   65.03 % 
-Bash                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-C++                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+TypeScript               35 mins             ███████████░░░░░░░░░░░░░░   42.41 % 
+C++                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Groovy                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-Cursor                   1 hr 38 mins        █████████████████████████   98.77 % 
-Cursor Agent             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Cursor                   1 hr 22 mins        █████████████████████████   98.53 % 
+Cursor Agent             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 22 mins (82.26%)
+⏱ AI Coding Time: 1 hr 10 mins (83.84%)
 
-✍️ 369 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 440 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 16 AI Prompts
+🧠 9 AI Sessions, 24 AI Prompts
 
-Claude-Opus              385 lines           █████████████████████████   100.00 % 
+Grok                     241 lines           █████████████░░░░░░░░░░░░   53.67 % 
+Claude-Opus              208 lines           ████████████░░░░░░░░░░░░░   46.33 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,674 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 784 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 23:54:56 UTC
+ Last Updated on 29/10/2026 23:49:20 UTC
 <!--END_SECTION:waka-->
